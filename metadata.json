@@ -1,0 +1,6 @@
+{
+  "name": "Mujib AutoReply",
+  "description": "مساعد الرد التلقائي الذكي على إشعارات واتساب وماسنجر وإنستغرام بدقة واحترافية عبر الذكاء الاصطناعي وقاعدة المعرفة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
